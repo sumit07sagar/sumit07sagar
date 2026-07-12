@@ -1,71 +1,68 @@
 # Hi, I'm Sumit Sagar 👋
 
-### Web3 + AI Growth Leader · Head of Marketing @ LCX · Fractional CMO — and I build what I market
+### Founder, Growth100X · Fractional CMO & Web3/AI Growth Consultant — and I build what I market
 
-I scale brands and tokens in Web3 and AI — and I'm hands-on enough to build the websites, CRMs, SEO, and automation behind the growth. Over the last several years I've taken products **from 0 to 150K+ users and $50M+ in revenue**, launched **10+ tokens** with structured go-to-market campaigns, and run the entire digital function for the companies I work with. Marketing strategist and growth leader on one side; WordPress, React, and technical SEO on the other.
+I'm the growth partner companies retain when they want one person to own the outcome. I scale brands and tokens in Web3 and AI — strategy, GTM, and marketing — and I'm hands-on enough to build the websites, CRMs, SEO, and automation behind the growth. Across multi-year retainers I've taken products **from 0 to 150K+ users and $50M+ in revenue** and launched **10+ tokens** with structured go-to-market campaigns. My clients don't hire me for a deliverable; they keep me on for years.
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Fractional%20CMO-7C3AED?style=for-the-badge&logo=buffer&logoColor=white" alt="Fractional CMO"/>
   <img src="https://img.shields.io/badge/Growth%20%26%20GTM-DB2777?style=for-the-badge&logo=rocket&logoColor=white" alt="Growth & GTM"/>
   <img src="https://img.shields.io/badge/Web3%20%2B%20AI-0F172A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Web3 + AI"/>
   <img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Web Development"/>
   <img src="https://img.shields.io/badge/Technical%20SEO-16A34A?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Technical SEO"/>
-  <img src="https://img.shields.io/badge/Fractional%20CMO-7C3AED?style=for-the-badge&logo=buffer&logoColor=white" alt="Fractional CMO"/>
 </p>
 
 ---
 
 ## 📊 Impact at a Glance
 
-| 🚀 0 → 150K+ | 💰 $50M+ | 🪙 10+ | 🏢 5+ yrs |
+| 🚀 0 → 150K+ | 💰 $50M+ | 🪙 10+ | 🤝 5-yr |
 |:---:|:---:|:---:|:---:|
-| Users scaled | Revenue driven | Token launches (GTM) | Leading marketing @ LCX |
+| Users scaled | Revenue driven | Token launches (GTM) | Longest client retainer |
 
 ---
 
-## 🧭 What I Do
+## 🧭 What I Do for Clients
 
 | Growth & Marketing | Web3 & Token GTM | Web Development | SEO & Analytics |
 |---|---|---|---|
-| Marketing & growth strategy | Token launches & market making | WordPress (Elementor, WPCode) | Technical & front-end SEO |
-| Brand & performance marketing | Community-led growth | React front-ends & internal CRMs | GA4 · GTM · Search Console |
-| Fractional CMO leadership | Ambassador & incentive design | Netlify / Cloudflare deploys | Keyword mapping · schema |
+| Fractional CMO leadership | Token launches & market making | WordPress (Elementor, WPCode) | Technical & front-end SEO |
+| Marketing & growth strategy | Community-led growth | React front-ends & internal CRMs | GA4 · GTM · Search Console |
+| Brand & performance marketing | Ambassador & incentive design | Netlify / Cloudflare deploys | Keyword mapping · schema |
 | Social media & content | D2C & influencer partnerships | Productized automation systems | AI/LLM visibility (`llms.txt`) |
 
 ---
 
-## 💼 Experience
+## 🤝 Client Engagements & Retainers
 
-### 🟦 LCX — Head of Marketing *(May 2022 – Present)* · Product Marketing Manager *(prior)* — 5+ years
-**Web3 exchange & token platform · New Delhi**
+### 🟦 LCX — *Retained ~5 years* · Fractional Head of Marketing
+**Web3 exchange & token platform**
 
-I own LCX's entire digital and growth function end to end — the deepest engagement of my career.
+My flagship engagement — a multi-year retainer in which I own LCX's entire growth and digital function end to end.
 
-- **Token GTM & market making:** Collaborated with listing and trading teams to launch **10+ tokens** with structured go-to-market campaigns.
-- **Full digital ownership:** WordPress website, internal CRM, front-end + technical SEO, social media, business development, and marketing campaigns — all under my purview and maintained year over year.
-- **Growth leadership:** Drove the strategy behind scaling brands and tokens across Web3 and AI audiences.
+- **Token GTM & market making:** Worked with listing and trading teams to launch **10+ tokens** with structured go-to-market campaigns.
+- **Full digital ownership:** WordPress website, internal CRM, front-end + technical SEO, social media, business development, and marketing campaigns — all under my purview, maintained and re-optimized year over year.
+- **Growth leadership:** Set and drove the strategy behind scaling the brand and its tokens across Web3 and AI audiences.
 
-### 🟩 Life AI — Fractional CMO *(Feb 2025 – Mar 2026)*
-**Healthtech / AI · Remote**
+> A 5-year retainer means the work compounds — every system I built has been maintained and improved across multiple years, not shipped once and forgotten.
+
+### 🟩 Life AI — *~1-year retainer* · Fractional CMO
+**Healthtech / AI**
 
 - Directed marketing & GTM strategy for **Life AI's India launch** — D2C growth, influencer partnerships, and healthtech brand trust.
 - Built and maintain the **Life AI WordPress website** (live) and run their social media.
 
-### 🟪 EloLabs — Social Media Marketing Consultant *(Feb 2025 – Jul 2025)*
-**Web3 · Remote**
+### 🟪 EloLabs — *Retainer* · Social Media & Web
+**Web3**
 
 - Led **Aloha's social media revamp** to align with Gen-Z culture and crypto-native audiences — storytelling, visual aesthetics, and platform-native content to boost engagement.
 - Designed and built the **EloLabs WordPress website** (live) and manage their ongoing social presence.
 
-### 🟨 Peera — Growth Consultant *(Aug 2024 – Feb 2025)*
-**Web3 · Remote**
+### 🟨 Peera — *Retainer* · Growth Consultant
+**Web3**
 
 - Helped **Peeranha scale community-led growth** across Web3 ecosystems through positioning, ambassador programs, and incentive design.
 - Built the **Peera WordPress website** and run ongoing social media management.
-
-### 🟫 ICA Edu Skills — Business Development Manager *(Jun 2015 – Apr 2019)*
-**Education · Greater Patna Area**
-
-- Drove **₹3 crore+ in sales** over two years in a personal capacity — my grounding in business development and revenue ownership.
 
 ---
 
@@ -93,7 +90,7 @@ I own LCX's entire digital and growth function end to end — the deepest engage
 
 ## ⚙️ Products & Automation Systems I've Built
 
-Reusable systems that let me deliver agency-grade work at scale.
+Reusable systems that let me deliver agency-grade work at scale for every client.
 
 | System | What it does |
 |---|---|
@@ -106,7 +103,7 @@ Reusable systems that let me deliver agency-grade work at scale.
 
 ## 🛠️ Skills & Stack
 
-**Growth & Marketing** — `Marketing Strategy` · `Brand Marketing` · `Growth Marketing` · `Social Media` · `Digital Marketing` · `Marketing Consulting` · `Product Marketing`
+**Growth & Marketing** — `Fractional CMO` · `Marketing Strategy` · `Brand Marketing` · `Growth Marketing` · `Social Media` · `Digital Marketing` · `Product Marketing`
 
 **Web3 & GTM** — `Token launches` · `Market making GTM` · `Community-led growth` · `Ambassador programs` · `Incentive design`
 
@@ -118,16 +115,17 @@ Reusable systems that let me deliver agency-grade work at scale.
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Background & Credentials
 
 - **Executive MBA, Marketing** — Great Lakes Institute of Management
 - **10+ professional certifications** across product marketing, growth, and Web3
+- Earlier career in business development — drove **₹3 crore+ in sales** before moving into growth consulting
 
 ---
 
-## 📫 Let's Work Together
+## 📫 Work With Me
 
-I take full ownership of growth — strategy through execution — and I build the web, SEO, and automation that powers it. Open to fractional CMO, growth consulting, and Web3/AI GTM engagements.
+I take retained, full-ownership growth engagements — strategy through execution — and I build the web, SEO, and automation that powers it. Open to fractional CMO, growth consulting, and Web3/AI GTM retainers.
 
 - 📧 **sumit.sagar07@gmail.com**
 - 💼 **[linkedin.com/in/sumitsagar07](https://www.linkedin.com/in/sumitsagar07/)**
@@ -135,4 +133,4 @@ I take full ownership of growth — strategy through execution — and I build t
 
 ---
 
-<sub>Roles, dates, and metrics reflect my LinkedIn profile and real engagements. Quantitative results are drawn from actual campaigns, audit reports, and analytics.</sub>
+<sub>Engagements and metrics reflect real client retainers. Quantitative results are drawn from actual campaigns, audit reports, and analytics.</sub>
