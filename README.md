@@ -68,8 +68,8 @@ My flagship engagement — a multi-year retainer in which I own LCX's entire gro
 
 ## 🏆 Selected Project Case Studies
 
-### ✈️ Metairfare.com — Flight-Fare Travel Agency
-**Web Development · Analytics · SEO · Automation**
+### ✈️ [Metairfare.com](https://metairfare.com) — Flight-Fare Travel Agency
+**Web Development · Analytics · SEO · Automation** · 🔗 [metairfare.com](https://metairfare.com)
 
 - Built a complete **React CRM front-end** — 7 screens, ~58 KB gzipped, deployed to Netlify.
 - Produced an investor-ready GA4 funnel report — **2,717 visitors → 90 leads** — with AI-referral attribution.
@@ -81,8 +81,8 @@ My flagship engagement — a multi-year retainer in which I own LCX's entire gro
 - Delivered a full **SEO / AEO / GEO audit** (client PDF + 25-task checklist, 36-keyword map) and managed an 18+ item dev fix list.
 - **Results:** module scores lifted — Technical **55 → 62**, On-Page **62 → 72**, AI Visibility **30 → 40**.
 
-### 🦷 Tooth Simplified — Dental Clinic
-**Web Development · Analytics · Content**
+### 🦷 [Tooth Simplified](https://toothsimplified.com) — Dental Clinic
+**Web Development · Analytics · Content** · 🔗 [toothsimplified.com](https://toothsimplified.com)
 
 - Built the site in Elementor, deployed sitewide **conversion tracking** (WhatsApp/phone → GA4 Key Events + Google Ads), and designed a short-form video pipeline.
 
@@ -120,6 +120,16 @@ Reusable systems that let me deliver agency-grade work at scale for every client
 - **Executive MBA, Marketing** — Great Lakes Institute of Management
 - **10+ professional certifications** across product marketing, growth, and Web3
 - Earlier career in business development — drove **₹3 crore+ in sales** before moving into growth consulting
+
+---
+
+## 🔗 Live Websites I've Built
+
+Sites I designed and built, currently live in production:
+
+- 🦷 **[toothsimplified.com](https://toothsimplified.com)** — dental clinic website (WordPress / Elementor)
+- ✈️ **[metairfare.com](https://metairfare.com)** — flight-fare travel agency (web, CRM, SEO, analytics)
+- 🚀 **[growth100x.com](https://growth100x.com)** — my growth consultancy
 
 ---
 
