@@ -5,11 +5,11 @@
 I'm the growth partner companies retain when they want one person to own the outcome. I scale brands and tokens in Web3 and AI — strategy, GTM, and marketing — and I'm hands-on enough to build the websites, CRMs, SEO, and automation behind the growth. Across multi-year retainers I've taken products **from 0 to 150K+ users and $50M+ in revenue** and launched **10+ tokens** with structured go-to-market campaigns. My clients don't hire me for a deliverable; they keep me on for years.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Fractional%20CMO-7C3AED?style=for-the-badge&logo=buffer&logoColor=white" alt="Fractional CMO"/>
-  <img src="https://img.shields.io/badge/Growth%20%26%20GTM-DB2777?style=for-the-badge&logo=rocket&logoColor=white" alt="Growth & GTM"/>
-  <img src="https://img.shields.io/badge/Web3%20%2B%20AI-0F172A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Web3 + AI"/>
-  <img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Web Development"/>
-  <img src="https://img.shields.io/badge/Technical%20SEO-16A34A?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Technical SEO"/>
+<img src="https://img.shields.io/badge/Fractional%20CMO-7C3AED?style=for-the-badge&logo=buffer&logoColor=white" alt="Fractional CMO"/>
+<img src="https://img.shields.io/badge/Growth%20%26%20GTM-DB2777?style=for-the-badge&logo=rocket&logoColor=white" alt="Growth & GTM"/>
+<img src="https://img.shields.io/badge/Web3%20%2B%20AI-0F172A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Web3 + AI"/>
+<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Web Development"/>
+<img src="https://img.shields.io/badge/Technical%20SEO-16A34A?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Technical SEO"/>
 </p>
 
 ---
@@ -36,6 +36,7 @@ I'm the growth partner companies retain when they want one person to own the out
 ## 🤝 Client Engagements & Retainers
 
 ### 🟦 LCX — *Retained ~5 years* · Fractional Head of Marketing
+
 **Web3 exchange & token platform**
 
 My flagship engagement — a multi-year retainer in which I own LCX's entire growth and digital function end to end.
@@ -47,18 +48,21 @@ My flagship engagement — a multi-year retainer in which I own LCX's entire gro
 > A 5-year retainer means the work compounds — every system I built has been maintained and improved across multiple years, not shipped once and forgotten.
 
 ### 🟩 Life AI — *~1-year retainer* · Fractional CMO
+
 **Healthtech / AI**
 
 - Directed marketing & GTM strategy for **Life AI's India launch** — D2C growth, influencer partnerships, and healthtech brand trust.
 - Built and maintain the **Life AI WordPress website** (live) and run their social media.
 
 ### 🟪 EloLabs — *Retainer* · Social Media & Web
+
 **Web3**
 
 - Led **Aloha's social media revamp** to align with Gen-Z culture and crypto-native audiences — storytelling, visual aesthetics, and platform-native content to boost engagement.
 - Designed and built the **EloLabs WordPress website** (live) and manage their ongoing social presence.
 
 ### 🟨 Peera — *Retainer* · Growth Consultant
+
 **Web3**
 
 - Helped **Peeranha scale community-led growth** across Web3 ecosystems through positioning, ambassador programs, and incentive design.
@@ -69,6 +73,7 @@ My flagship engagement — a multi-year retainer in which I own LCX's entire gro
 ## 🏆 Selected Project Case Studies
 
 ### ✈️ [Metairfare.com](https://metairfare.com) — Flight-Fare Travel Agency
+
 **Web Development · Analytics · SEO · Automation** · 🔗 [metairfare.com](https://metairfare.com)
 
 - Built a complete **React CRM front-end** — 7 screens, ~58 KB gzipped, deployed to Netlify.
@@ -76,15 +81,29 @@ My flagship engagement — a multi-year retainer in which I own LCX's entire gro
 - Grew the XML sitemap **27 → 241 URLs**; built an **ElevenLabs AI voice agent** for lead qualification.
 
 ### 🚚 imTransporter — Packers & Movers (Pune + 23 cities)
+
 **Technical SEO · Web Development**
 
 - Delivered a full **SEO / AEO / GEO audit** (client PDF + 25-task checklist, 36-keyword map) and managed an 18+ item dev fix list.
 - **Results:** module scores lifted — Technical **55 → 62**, On-Page **62 → 72**, AI Visibility **30 → 40**.
+- Month 2 follow-through: fixed broken related-posts layouts across 10 blog posts (now clean 3-card grids), confirmed all 15 posts on the modern design, and submitted 5 new posts for Search Console indexing.
 
 ### 🦷 [Tooth Simplified](https://toothsimplified.com) — Dental Clinic
+
 **Web Development · Analytics · Content** · 🔗 [toothsimplified.com](https://toothsimplified.com)
 
 - Built the site in Elementor, deployed sitewide **conversion tracking** (WhatsApp/phone → GA4 Key Events + Google Ads), and designed a short-form video pipeline.
+- Shipped a custom **clinic CRM** (toothsimplified.com/crm) — today/upcoming schedule view, doctor-only patient payment history, WhatsApp booking confirmations, and Google Calendar sync.
+- Re-skinned the entire blog library onto a new dental design system — branded TL;DR cards, icon badges, and pricing tables.
+- **Results:** 45/45 blog posts migrated to the new design system with zero errors; CRM now handles scheduling, payment tracking, and patient communication end-to-end.
+
+### 🚀 [Growth100X](https://growth100x.com) — My Own Growth Consultancy
+
+**Web Development · SEO · Content** · 🔗 [growth100x.com](https://growth100x.com)
+
+- Ran a full content/UX audit across the entire blog — redesigned every published post with meta pills, TL;DR answer cards, and author cards.
+- Cleaned up legacy Elementor lock and junk-markup issues site-wide.
+- **Results:** 107/107 posts verified clean and on-brand.
 
 ---
 
@@ -92,12 +111,12 @@ My flagship engagement — a multi-year retainer in which I own LCX's entire gro
 
 Reusable systems that let me deliver agency-grade work at scale for every client.
 
-| System | What it does |
-|---|---|
-| **SEO Audit Engine** | Full live SEO / AEO / GEO audit for any domain → client-ready PDF report + internal execution checklist (xlsx). |
+| System                     | What it does                                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **SEO Audit Engine**       | Full live SEO / AEO / GEO audit for any domain → client-ready PDF report + internal execution checklist (xlsx).      |
 | **Analytics Setup Engine** | End-to-end GA4 + GTM + Search Console onboarding — tracking plan, tag config, verification, Looker Studio dashboard. |
-| **Website Engine** | Mockup-first website production — premium HTML concepts for pitching, then full WordPress or static build-out. |
-| **Meme / Social Engine** | Turns a topic or brief into finished, ready-to-post social creative. |
+| **Website Engine**         | Mockup-first website production — premium HTML concepts for pitching, then full WordPress or static build-out.       |
+| **Meme / Social Engine**   | Turns a topic or brief into finished, ready-to-post social creative.                                                 |
 
 ---
 
@@ -137,10 +156,10 @@ Sites I designed and built, currently live in production:
 
 I take retained, full-ownership growth engagements — strategy through execution — and I build the web, SEO, and automation that powers it. Open to fractional CMO, growth consulting, and Web3/AI GTM retainers.
 
-- 📧 **sumit.sagar07@gmail.com**
+- 📧 **<sumit.sagar07@gmail.com>**
 - 💼 **[linkedin.com/in/sumitsagar07](https://www.linkedin.com/in/sumitsagar07/)**
 - 🌐 **[growth100x.com](https://growth100x.com)**
 
 ---
 
-<sub>Engagements and metrics reflect real client retainers. Quantitative results are drawn from actual campaigns, audit reports, and analytics.</sub>
+Engagements and metrics reflect real client retainers. Quantitative results are drawn from actual campaigns, audit reports, and analytics.
