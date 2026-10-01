@@ -1,15 +1,16 @@
 # Hi, I'm Sumit Sagar 👋
 
-### Founder, Growth100X · Fractional CMO & Web3/AI Growth Consultant — and I build what I market
+### Founder, Growth100X · Fractional CMO & AI Growth Engineer — I build the CRMs, AI voice agents, SEO and tracking behind the growth
 
-I'm the growth partner companies retain when they want one person to own the outcome. I scale brands and tokens in Web3 and AI — strategy, GTM, and marketing — and I'm hands-on enough to build the websites, CRMs, SEO, and automation behind the growth. Across multi-year retainers I've taken products **from 0 to 150K+ users and $50M+ in revenue** and launched **10+ tokens** with structured go-to-market campaigns. My clients don't hire me for a deliverable; they keep me on for years.
+**Sumit Sagar** is the founder of **[Growth100X](https://growth100x.com)**, a growth and AI-automation consultancy based in India. He works as a fractional CMO and hands-on builder for startups, clinics, travel agencies and wealth firms: custom CRMs, AI voice agents that call leads automatically, SEO / AEO / GEO programmes, and Meta Conversions API (CAPI) tracking. Across multi-year retainers he has taken products **from 0 to 150K+ users and $50M+ in revenue** and launched **10+ tokens** with structured go-to-market campaigns.
 
 <p align="left">
 <img src="https://img.shields.io/badge/Fractional%20CMO-7C3AED?style=for-the-badge&logo=buffer&logoColor=white" alt="Fractional CMO"/>
-<img src="https://img.shields.io/badge/Growth%20%26%20GTM-DB2777?style=for-the-badge&logo=rocket&logoColor=white" alt="Growth & GTM"/>
+<img src="https://img.shields.io/badge/AI%20Voice%20Agents-F14902?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="AI Voice Agents"/>
+<img src="https://img.shields.io/badge/Custom%20CRMs-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Custom CRMs"/>
+<img src="https://img.shields.io/badge/SEO%20%C2%B7%20AEO%20%C2%B7%20GEO-16A34A?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO AEO GEO"/>
+<img src="https://img.shields.io/badge/Meta%20CAPI-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta CAPI"/>
 <img src="https://img.shields.io/badge/Web3%20%2B%20AI-0F172A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Web3 + AI"/>
-<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Web Development"/>
-<img src="https://img.shields.io/badge/Technical%20SEO-16A34A?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Technical SEO"/>
 </p>
 
 ---
@@ -24,137 +25,126 @@ I'm the growth partner companies retain when they want one person to own the out
 
 ## 🧭 What I Do for Clients
 
-| Growth & Marketing | Web3 & Token GTM | Web Development | SEO & Analytics |
+| Growth & Marketing | AI & Automation | Web & CRM Development | SEO & Analytics |
 |---|---|---|---|
-| Fractional CMO leadership | Token launches & market making | WordPress (Elementor, WPCode) | Technical & front-end SEO |
-| Marketing & growth strategy | Community-led growth | React front-ends & internal CRMs | GA4 · GTM · Search Console |
-| Brand & performance marketing | Ambassador & incentive design | Netlify / Cloudflare deploys | Keyword mapping · schema |
-| Social media & content | D2C & influencer partnerships | Productized automation systems | AI/LLM visibility (`llms.txt`) |
+| Fractional CMO leadership | AI voice agents (ElevenLabs) | Custom CRMs (Laravel, React, Apps Script) | Technical & front-end SEO |
+| Marketing & growth strategy | HubSpot / CRM call automation | WordPress (Elementor, WPCode) | AEO / GEO — AI-assistant citations |
+| Meta & Google ads | Meta Conversions API (CAPI) | React + Vite front-ends | GA4 · GTM · Search Console · Bing |
+| Web3 token GTM & community | Productized engines (SEO, web, content) | Netlify / Cloudflare deploys | Keyword mapping · schema · `llms.txt` |
 
 ---
 
-## 🤝 Client Engagements & Retainers
+## 🏆 Client Case Studies
 
-### 🟦 LCX — *Retained ~5 years* · Fractional Head of Marketing
+### 💼 Lumida Wealth — Wealth Management
 
-**Web3 exchange & token platform**
+**Tracking · Paid Ads · AI Voice Agent · HubSpot**
 
-My flagship engagement — a multi-year retainer in which I own LCX's entire growth and digital function end to end.
+- Audited the full tracking stack — **9 Webflow sites, 44 GoHighLevel funnels, HubSpot and 6 GTM containers** — and fixed duplicate pixels, mis-firing Lead events and unhashed PII.
+- Built and integrated **Meta Conversions API (CAPI)**: a dedicated dataset and GTM container, browser + server events de-duplicated by `event_id`, hashed email/phone, and HubSpot lead-quality signals fed back to Meta.
+- Launched the **first Growth100X-run Meta campaign** on the new tracking stack, with dedicated funnels (Direct Booking, Tax Mitigation, Lumida Ledger).
+- Built an **AI voice agent integrated with HubSpot** so new leads get called automatically — no manual dialling.
 
-- **Token GTM & market making:** Worked with listing and trading teams to launch **10+ tokens** with structured go-to-market campaigns.
-- **Full digital ownership:** WordPress website, internal CRM, front-end + technical SEO, social media, business development, and marketing campaigns — all under my purview, maintained and re-optimized year over year.
-- **Growth leadership:** Set and drove the strategy behind scaling the brand and its tokens across Web3 and AI audiences.
+### ✈️ [Metairfare.com](https://metairfare.com) — Canada ↔ India Flight Agency
 
-> A 5-year retainer means the work compounds — every system I built has been maintained and improved across multiple years, not shipped once and forgotten.
+**CRM Development · SEO · Analytics · AI Voice · Content** · 🔗 [metairfare.com](https://metairfare.com)
 
-### 🟩 Life AI — *~1-year retainer* · Fractional CMO
+- Built the **Metairfare CRM** end to end: a Laravel back office (leads, agents, bookings, ticket sales) and a **React + Vite front-end** (7 screens) — source in private repos; public overview in [travel-agency-crm-showcase](https://github.com/sumit07sagar/travel-agency-crm-showcase).
+- Maintain the Laravel public website: route pages, enquiry capture, and a 250+ post blog with an **11-city route FAQ batch** and competitor-comparison series (vs Skyscanner, vs MakeMyTrip).
+- Designed an **ElevenLabs AI voice agent** for new-lead calls, scripted from 11 real transcribed sales calls; produced an ad-to-CRM conversion-tracking spec (Meta CAPI + offline conversions).
+- Grew the XML sitemap **27 → 241 URLs**; investor-ready GA4 funnel report (**2,717 visitors → 90 leads**).
 
-**Healthtech / AI**
+> **Results:** Google clicks **+35%** (498 → 673) · tracked leads **~8 → 144** in 28 days after the tracking fix · Bing Copilot citations **2.7K → 5.7K** · AI-assistant traffic converting at **6.06%**.
 
-- Directed marketing & GTM strategy for **Life AI's India launch** — D2C growth, influencer partnerships, and healthtech brand trust.
-- Built and maintain the **Life AI WordPress website** (live) and run their social media.
+### 🦷 [Tooth Simplified](https://toothsimplified.com) — Dental Clinic, Ghaziabad
 
-### 🟪 EloLabs — *Retainer* · Social Media & Web
+**Web Development · Custom CRM · SEO / AEO / GEO · Content** · 🔗 [toothsimplified.com](https://toothsimplified.com)
 
-**Web3**
+- Website updated **every week** — new treatment guides, blog posts and on-page SEO; full blog library on a custom dental design system.
+- Built and continuously ship a **clinic CRM** (Google Apps Script) — schedule, visits, treatment timelines, monthly P&L, WhatsApp confirmations, Google Calendar sync. Recent releases: iOS-style design system, salted-hash PIN security, treatment plans that settle against the agreed quote, duplicate-patient detection.
+- Productized as a **white-label dental CRM** — new clinic set up in about a minute; **87/87 automated tests** pass on live data. Showcase: [dental-clinic-management-system](https://github.com/sumit07sagar/dental-clinic-management-system).
+- Sitewide conversion tracking (WhatsApp/phone → GA4 Key Events + Google Ads) and weekly SEO / AEO / GEO reviews.
 
-- Led **Aloha's social media revamp** to align with Gen-Z culture and crypto-native audiences — storytelling, visual aesthetics, and platform-native content to boost engagement.
-- Designed and built the **EloLabs WordPress website** (live) and manage their ongoing social presence.
-
-### 🟨 Peera — *Retainer* · Growth Consultant
-
-**Web3**
-
-- Helped **Peeranha scale community-led growth** across Web3 ecosystems through positioning, ambassador programs, and incentive design.
-- Built the **Peera WordPress website** and run ongoing social media management.
-
----
-
-## 🏆 Selected Project Case Studies
-
-### ✈️ [Metairfare.com](https://metairfare.com) — Flight-Fare Travel Agency
-
-**Web Development · Analytics · SEO · Automation** · 🔗 [metairfare.com](https://metairfare.com)
-
-- Built a complete **React CRM front-end** — 7 screens, ~58 KB gzipped, deployed to Netlify.
-- Produced an investor-ready GA4 funnel report — **2,717 visitors → 90 leads** — with AI-referral attribution.
-- Grew the XML sitemap **27 → 241 URLs**; built an **ElevenLabs AI voice agent** for lead qualification.
+> **Results:** **#1 on Google for "dental implant cost ghaziabad"** · **60 Google reviews at 5.0★** · **+201% search impressions** in 3 months · Bing Copilot citations **4.9K → 9K** · tracked leads **3 → 18** per 28 days.
 
 ### 🚚 imTransporter — Packers & Movers (Pune + 23 cities)
 
-**Technical SEO · Web Development**
+**Technical SEO · Content · Analytics**
 
-- Delivered a full **SEO / AEO / GEO audit** (client PDF + 25-task checklist, 36-keyword map) and managed an 18+ item dev fix list.
-- **Results:** module scores lifted — Technical **55 → 62**, On-Page **62 → 72**, AI Visibility **30 → 40**.
-- Month 2 follow-through: fixed broken related-posts layouts across 10 blog posts (now clean 3-card grids), confirmed all 15 posts on the modern design, and submitted 5 new posts for Search Console indexing.
+- Full **SEO / AEO / GEO audit** (36-keyword map, 25-task checklist) and an 18+ item dev fix list; GA4 and Search Console repairs.
+- Built out **126 city guides** and the blog; **161 pages indexed**.
 
-### 🦷 [Tooth Simplified](https://toothsimplified.com) — Dental Clinic
+> **Results (3 months):** impressions **0 → 6,078** · **206 search terms on page one** (56 in the top 3) · Google + AI share of visits **13% → 40%** · **48%** of monthly enquiries from Google or ChatGPT.
 
-**Web Development · Analytics · Content** · 🔗 [toothsimplified.com](https://toothsimplified.com)
+### 🚀 [Growth100X](https://growth100x.com) — My Own Consultancy
 
-- Built the site in Elementor, deployed sitewide **conversion tracking** (WhatsApp/phone → GA4 Key Events + Google Ads), and designed a short-form video pipeline.
-- Shipped a custom **clinic CRM** (toothsimplified.com/crm) — today/upcoming schedule view, doctor-only patient payment history, WhatsApp booking confirmations, and Google Calendar sync.
-- Re-skinned the entire blog library onto a new dental design system — branded TL;DR cards, icon badges, and pricing tables.
-- **Results:** 45/45 blog posts migrated to the new design system with zero errors; CRM now handles scheduling, payment tracking, and patient communication end-to-end.
+**Web Development · SEO · Content**
 
-### 🚀 [Growth100X](https://growth100x.com) — My Own Growth Consultancy
-
-**Web Development · SEO · Content** · 🔗 [growth100x.com](https://growth100x.com)
-
-- Ran a full content/UX audit across the entire blog — redesigned every published post with meta pills, TL;DR answer cards, and author cards.
-- Cleaned up legacy Elementor lock and junk-markup issues site-wide.
-- **Results:** 107/107 posts verified clean and on-brand.
+- Site kept current: **8 pillar guides** live, a 26-week content calendar, and every blog post redesigned with TL;DR answer cards and author cards (**107/107 posts** verified clean).
 
 ---
 
-## ⚙️ Products & Automation Systems I've Built
+## 🤝 Retainers & Past Engagements
 
-Reusable systems that let me deliver agency-grade work at scale for every client.
+- **LCX** *(~5 yrs · Head of Marketing)* — Web3 exchange: launched **10+ tokens**, owned website, CRM, SEO, social and campaigns.
+- **Life AI** *(Fractional CMO)* — healthtech India launch: D2C growth, influencer partnerships, WordPress site.
+- **EloLabs / Aloha** *(Social & Web)* — Gen-Z, crypto-native social revamp; WordPress site.
+- **Peera / Peeranha** *(Growth)* — community-led growth, ambassador programs, incentive design; WordPress site.
 
-| System                     | What it does                                                                                                         |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **SEO Audit Engine**       | Full live SEO / AEO / GEO audit for any domain → client-ready PDF report + internal execution checklist (xlsx).      |
-| **Analytics Setup Engine** | End-to-end GA4 + GTM + Search Console onboarding — tracking plan, tag config, verification, Looker Studio dashboard. |
-| **Website Engine**         | Mockup-first website production — premium HTML concepts for pitching, then full WordPress or static build-out.       |
-| **Meme / Social Engine**   | Turns a topic or brief into finished, ready-to-post social creative.                                                 |
+---
+
+## ⚙️ Products & Automation Systems
+
+| System | What it does |
+| --- | --- |
+| **AI Voice Agent + CRM** | ElevenLabs voice agent that calls new leads automatically, triggered from HubSpot / CRM. |
+| **Meta CAPI Tracking Stack** | GTM + server-side Conversions API with de-duplication, hashed PII and CRM lead-quality feedback. |
+| **Clinic CRM Template** | White-label, mobile-first clinic CRM on Google Apps Script — re-brands from one colour value. |
+| **SEO Audit Engine** | Live SEO / AEO / GEO audit for any domain → client PDF + execution checklist. |
+| **Analytics Setup Engine** | GA4 + GTM + Search Console onboarding with tracking plan and Looker Studio dashboard. |
+| **Website Engine** | Mockup-first website production — HTML concepts, then WordPress or static build. |
 
 ---
 
 ## 🛠️ Skills & Stack
 
-**Growth & Marketing** — `Fractional CMO` · `Marketing Strategy` · `Brand Marketing` · `Growth Marketing` · `Social Media` · `Digital Marketing` · `Product Marketing`
+**Growth & Marketing** — `Fractional CMO` · `Growth Strategy` · `Meta Ads` · `Google Ads` · `Social Media` · `Token GTM` · `Community-led growth`
 
-**Web3 & GTM** — `Token launches` · `Market making GTM` · `Community-led growth` · `Ambassador programs` · `Incentive design`
+**AI & Automation** — `ElevenLabs` · `AI voice agents` · `HubSpot workflows` · `GoHighLevel` · `Meta CAPI` · `Python` · `Google Business Profile API`
 
-**Web Development** — `WordPress` · `Elementor` · `WPCode` · `React` · `HTML/CSS` · `Netlify` · `Cloudflare` · `Internal CRMs`
+**Web & CRM** — `Laravel` · `React` · `Vite` · `Google Apps Script` · `WordPress` · `Elementor` · `Webflow` · `Netlify` · `Cloudflare`
 
-**SEO & Analytics** — `Technical & front-end SEO` · `Schema/JSON-LD` · `Keyword mapping` · `llms.txt` · `GA4` · `GTM` · `Search Console` · `Google Ads` · `Looker Studio`
-
-**Automation** — `ElevenLabs voice agents` · `Video pipelines (ffmpeg, lip-sync)` · `Python` · `Google Business Profile API` · `Productized systems`
+**SEO & Analytics** — `Technical SEO` · `AEO / GEO` · `Schema / JSON-LD` · `llms.txt` · `GA4` · `GTM` · `Search Console` · `Bing Webmaster` · `Looker Studio`
 
 ---
 
-## 🎓 Background & Credentials
+## ❓ FAQ
 
-- **Executive MBA, Marketing** — Great Lakes Institute of Management
-- **10+ professional certifications** across product marketing, growth, and Web3
-- Earlier career in business development — drove **₹3 crore+ in sales** before moving into growth consulting
+**Who is Sumit Sagar?**
+Sumit Sagar is the founder of Growth100X, a fractional CMO and AI growth engineer from India who builds custom CRMs, AI voice agents, SEO/AEO/GEO programmes and Meta CAPI tracking for growing businesses.
+
+**What does Growth100X do?**
+Growth100X builds the systems that get a business found, booked and answered automatically — search and AI-assistant visibility, ad tracking, CRMs and AI voice agents that call leads.
+
+**Which industries has Sumit worked with?**
+Dental clinics, travel agencies, wealth management, logistics (packers & movers), healthtech AI and Web3 exchanges.
+
+**How do I hire Sumit?**
+Email **sumit.sagar07@gmail.com** or message on [LinkedIn](https://www.linkedin.com/in/sumitsagar07/).
 
 ---
 
 ## 🔗 Live Websites I've Built
 
-Sites I designed and built, currently live in production:
-
-- 🦷 **[toothsimplified.com](https://toothsimplified.com)** — dental clinic website (WordPress / Elementor)
-- ✈️ **[metairfare.com](https://metairfare.com)** — flight-fare travel agency (web, CRM, SEO, analytics)
+- 🦷 **[toothsimplified.com](https://toothsimplified.com)** — dental clinic website + custom clinic CRM
+- ✈️ **[metairfare.com](https://metairfare.com)** — flight agency website, CRM, SEO and analytics
 - 🚀 **[growth100x.com](https://growth100x.com)** — my growth consultancy
 
 ---
 
 ## 📫 Work With Me
 
-I take retained, full-ownership growth engagements — strategy through execution — and I build the web, SEO, and automation that powers it. Open to fractional CMO, growth consulting, and Web3/AI GTM retainers.
+Open to fractional CMO, growth consulting, AI-automation and Web3/AI GTM retainers — strategy through execution.
 
 - 📧 **<sumit.sagar07@gmail.com>**
 - 💼 **[linkedin.com/in/sumitsagar07](https://www.linkedin.com/in/sumitsagar07/)**
@@ -162,4 +152,4 @@ I take retained, full-ownership growth engagements — strategy through executio
 
 ---
 
-Engagements and metrics reflect real client retainers. Quantitative results are drawn from actual campaigns, audit reports, and analytics.
+<sub>Engagements and metrics reflect real client work. Results come from Search Console, GA4, Bing Webmaster and client reports; client source code is kept in private repositories.</sub>
