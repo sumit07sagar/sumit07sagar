@@ -38,7 +38,7 @@
 
 ### 💼 Lumida Wealth — Wealth Management
 
-**Tracking · Paid Ads · AI Voice Agent · HubSpot**
+**Tracking · Paid Ads · AI Voice Agent · HubSpot** · 📂 [Case study repo](https://github.com/sumit07sagar/meta-capi-ai-voice-agent-hubspot)
 
 - Audited the full tracking stack — **9 Webflow sites, 44 GoHighLevel funnels, HubSpot and 6 GTM containers** — and fixed duplicate pixels, mis-firing Lead events and unhashed PII.
 - Built and integrated **Meta Conversions API (CAPI)**: a dedicated dataset and GTM container, browser + server events de-duplicated by `event_id`, hashed email/phone, and HubSpot lead-quality signals fed back to Meta.
